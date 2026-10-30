@@ -1,4 +1,5 @@
 **Silicon Valley teaches scale. Japanese manufacturing teaches quality.**
+
 Which matters more when you need 2,000 new businesses?
 
 Japan has a national goal: to capture one-third of the global AI robotics market by 2040.
