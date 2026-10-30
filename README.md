@@ -1,4 +1,3 @@
-markdown
 **Silicon Valley teaches scale. Japanese manufacturing teaches quality.**
 Which matters more when you need 2,000 new businesses?
 
