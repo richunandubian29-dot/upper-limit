@@ -16,6 +16,7 @@ It is a question.
 Do we need a new generation of people who can connect technology, quality, and markets?
 
 Perhaps the AI robotics era will need both. 
+
 I recently wrote a short booklet exploring a related question:
 How do we estimate the market value of a technology before the product even exists?
 
